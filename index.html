@@ -1,6 +1,8 @@
 ---
-profile: true
+layout: default
+title: Home
 ---
 
-{% include post-list.html %}
-{% include footer.html %}
+{% assign page = site.posts.first %}
+{% assign content = page.content %}
+{% include post.html %}

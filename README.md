@@ -1,38 +1,44 @@
-# Cactus Theme for Jekyll
+flex
+====
 
-This is a port of [Cactus](https://github.com/koenbok/Cactus)'s default theme for Jekyll.
-Feel free to fork, change, modify and re-use it.
+Flex is a responsive, flexible, [Jekyll](http://jekyllrb.com) theme.
 
-## How to use it
+The theme is based on the website [The Development](http://thedevelopment.co).
 
-Simply clone this repository, and then run `jekyll serve` inside the directory.
-This theme is fully compliant with GH Pages and their dependencies.
-For extra info: [Using Jekyll with Pages](https://help.github.com/articles/using-jekyll-with-pages/#keeping-jekyll-up-to-date).
+View a demo website [here](http://the-development.github.io/flex/).
 
-Cactus theme includes:
+Installation
+===
+To use this theme, you would do so like any other Jekyll setup:
 
-* Pagination
-* Rss feed
-* Google Analytics Tracking code
-* Code Syntax Highlight
-* Author's profile with picture header
-* Twitter/Facebook share buttons
-* Archive posts list under each post
-* Disqus comments
+1. Install Jekyll: `gem install jekyll`
+2. Fork this repository to your machine
+3. `cd` to the forked directory and run `jekyll serve --watch`
+4. Celebrate and dance.
 
-## Screenshots
+Contributions
+===
 
-![index page](https://raw.githubusercontent.com/nickbalestra/kactus/master/assets/images/Kactus-theme-index.png)
-![post page](https://raw.githubusercontent.com/nickbalestra/kactus/master/assets/images/Kactus-theme-post.png)
+In general, there are no strict rules for contributing, only that your code is clean and well structured.
+
+For bugs:
+- To merge a fix, you can simply open a pull request.
+- To report one that is not yet fixed, open an issue.
+
+Feature requests:
+- **Always** open an issue first before implementing and proposing a new feature. This is only so I can make sure the theme doesn't become bloated with too many features. This way, I can determine if an idea is something that makes sense for the theme's design.
+
+If in doubt, you can always ask me on Twitter: [@jeffxmn](https://twitter.com/jeffxmn)
+
+License
+===
+
+Flex is licensed under the MIT license:
 
 
-## Thanks
-Most of the work has been already done by the [Cactus for mac authors](https://github.com/koenbok/Cactus/blob/master/AUTHORS), I've just ported their default theme to Jekyll.
-I've also added few things specific to Jekyll and some minor style changes.
+The MIT License (MIT)
 
-## Copyright & License
-
-Copyright (c) 2015 [Cactus Authors](https://github.com/koenbok/Cactus/blob/master/AUTHORS) -  Released under the MIT License.
+Copyright (c) 2013-2014 Jeff Martin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
