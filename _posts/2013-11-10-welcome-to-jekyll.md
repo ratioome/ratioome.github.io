@@ -1,7 +1,9 @@
 ---
-title:  "Welcome to Jekyll!"
-date:   2013-11-10 10:18:00
-description: Thriller Comedy Horror
+layout: post
+title: Example post
+cover: cover.jpg
+date:   2013-12-09 12:00:00
+categories: posts
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
